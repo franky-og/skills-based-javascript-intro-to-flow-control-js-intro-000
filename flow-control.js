@@ -1,4 +1,5 @@
 function basicTeenager(age) {
+  if age
 
 }
 
